@@ -1,17 +1,17 @@
 # 📘 Java gRPC - Beginner’s Guide
 
 ## 🧠 Table of Contents
-1. [What is gRPC?](#what-is-grpc)
-2. [Why gRPC over REST?](#why-grpc-over-rest)
-3. [Core Concepts](#core-concepts)
-4. [Types of Streaming in gRPC](#types-of-streaming-in-grpc)
-5. [Setup Instructions](#setup-instructions)
-6. [Creating Your First gRPC App (Java)](#creating-your-first-grpc-app-java)
-7. [Protobuf Syntax Quick Reference](#protobuf-syntax-quick-reference)
-8. [Useful Commands](#useful-commands)
-9. [References & Resources](#references--resources)
+1. [📘 What is gRPC?](#-what-is-grpc)
+2. [🚀 Why gRPC over REST?](#-why-grpc-over-rest)
+3. [📚 Core Concepts](#-core-concepts)
+4. [🔄 Types of Streaming in gRPC](#-types-of-streaming-in-grpc)
+5. [🛠️ Setup Instructions](#-setup-instructions)
+6. [💻 Creating Your First gRPC App (Java)](#-creating-your-first-grpc-app-java)
+7. [🧾 Protobuf Syntax Quick Reference](#-protobuf-syntax-quick-reference)
+8. [🔧 Useful Commands](#-useful-commands)
+9. [📎 References & Resources](#-references--resources)
 
-## ✅ What is gRPC?
+## 📘 What is gRPC?
 
 - **gRPC** stands for **Google Remote Procedure Call**.
 - It’s a high-performance, open-source RPC framework based on **Protocol Buffers (protobuf)**.
