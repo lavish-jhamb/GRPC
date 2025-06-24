@@ -1,0 +1,14 @@
+grpc:
+  client:
+    stockServiceBlockingStub:
+      address: "static://localhost:9090"
+      negotiation-type: PLAINTEXT
+    stockServiceStub:
+      address: "static://localhost:9090"
+      negotiation-type: PLAINTEXT
+    stockServiceClientStreamingStub:
+      address: "static://localhost:9090"
+      negotiation-type: PLAINTEXT
+    stockServiceBiDirectionalStub:
+      address: "static://localhost:9090"
+      negotiation-type: PLAINTEXT
